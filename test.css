@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+html,body{
+    width: 100%;
+    height: `00%;
+}
+#main{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(158, 86, 3);
+}
+h4{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 20%;
+}
+#card{
+    height: 500px;
+    width: 550px;
+    padding: 60px;
+    margin-left: 20%;
+    background-color: aqua;
+    background-image: url(https://images.unsplash.com/photo-1577222749259-ba87d76685be?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: bottom;
+}
+
+#box {
+    align-items: center;
+    justify-content: center;
+    height: 80%;
+    width:60%;
+    margin-left: 21%;
+    padding: 10px;
+    background-color: beige;
+    border: solid 3px gray;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#potal{
+    margin-top: 15%;
+    padding: 14px;
+   float: left;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    font-size: xx-large;
+}  
+#jor img{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+    padding: 4px;
+    top: 16px;
+    bottom: 8%;
+}
+h5{
+    text-align: center;
+    justify-content: center;
+    float: left;
+    
+}
+
+#icon{
+    width: 100px;
+    height: 50px;
+    max-resolution: 10px;
+    background-color: aqua;
+    align-items: center;
+    justify-content: center;
+}
